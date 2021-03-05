@@ -3,7 +3,7 @@ Based on Funny Eyes - Docker App (2021)
 
 by
 
-[thiagodnf.github.io/funny-eyes]: http://thiagodnf.github.io/funny-eyes
+thiagodnf.github.io/funny-eyes -> http://thiagodnf.github.io/funny-eyes
 
 
 
